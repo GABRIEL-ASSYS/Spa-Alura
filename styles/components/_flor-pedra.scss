@@ -1,0 +1,36 @@
+@import '../abstract/variaveis';
+
+#flor-pedra {
+    display: flex;
+    justify-content: center;
+    .img-flor-pedra {
+        margin: $margem;
+    }
+    .txt-flor-pedra {
+        text-align: center;
+        margin: $margem;
+        h3 {
+            font-size: $tamanho-do-texto /1.5;
+            color: $cor-primaria;
+            padding-top: 90px;
+            padding-bottom: 10px;
+            font-weight: $peso-do-texto;
+            text-transform: uppercase;
+            
+        }
+        h4 {
+            font-size: $tamanho-do-texto / 2.5;
+            padding: 15px;
+            color: $cor-secundaria;
+            font-weight: $peso-do-texto;
+            font-style: italic;
+        }
+        p {
+            font-size: $tamanho-do-texto / 3;
+            padding-left: 55px;
+            padding-right: 55px;
+            color: $cor-secundaria;
+            font-weight: $peso-do-texto;
+        }
+    }
+}
