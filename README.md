@@ -3,6 +3,8 @@
   O Spa Alura é um projeto criado durante um curso de SASS/SCSS na plataforma Alura, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando as linguagens HTML5 e CSS3 utlizando SASS/SCSS, sendo uma página de um spa que contém informações sobre o local e serviços prestados, também contém uma inscrição de descontos.
 
 ![print da página](https://github.com/GABRIEL-ASSYS/Spa-Alura/blob/main/imagens/print.png)
+![print da página](https://github.com/GABRIEL-ASSYS/Spa-Alura/blob/main/imagens/print%202.png)
+![print da página](https://github.com/GABRIEL-ASSYS/Spa-Alura/blob/main/imagens/print%203.png)
 
 ## 🚀 Começando
 
